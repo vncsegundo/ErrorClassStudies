@@ -1,0 +1,15 @@
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.csproj.AssemblyReference.cache
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.AssemblyInfoInputs.cache
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.AssemblyInfo.cs
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.csproj.CoreCompileInputs.cache
+C:\Users\bnweb\Documents\ErroClass\bin\Debug\net6.0\ErroClass.exe
+C:\Users\bnweb\Documents\ErroClass\bin\Debug\net6.0\ErroClass.deps.json
+C:\Users\bnweb\Documents\ErroClass\bin\Debug\net6.0\ErroClass.runtimeconfig.json
+C:\Users\bnweb\Documents\ErroClass\bin\Debug\net6.0\ErroClass.dll
+C:\Users\bnweb\Documents\ErroClass\bin\Debug\net6.0\ErroClass.pdb
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.dll
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\refint\ErroClass.dll
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.pdb
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ErroClass.genruntimeconfig.cache
+C:\Users\bnweb\Documents\ErroClass\obj\Debug\net6.0\ref\ErroClass.dll
